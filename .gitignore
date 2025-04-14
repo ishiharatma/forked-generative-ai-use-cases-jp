@@ -8,3 +8,7 @@ node_modules
 # MkDocs documentation
 site*/
 .cache
+
+.devcontainer/
+
+.aws/
